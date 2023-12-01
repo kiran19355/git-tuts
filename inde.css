@@ -1,0 +1,7 @@
+.card {
+    background-image: url(https://www.w3schools.com/images/colorpicker2000.png) ;
+    background-size: contain;
+    text-align: center;
+    height: 30vh;
+    width: 30vw;
+}
